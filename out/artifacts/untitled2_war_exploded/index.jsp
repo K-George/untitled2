@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <form method="post"  enctype="multipart/form-data">
+  <form method="post" action="http://47.98.202.193" enctype="multipart/form-data">
     <input type="file" name="filedata">
     <br>
     <input type="submit" value="Submit">
